@@ -24,7 +24,6 @@ ds_anubhav_sharma/
 │   ├── total_pnl_by_sentiment.png
 │   ├── sentiment_correlation.png
 │   ├── account_clusters.csv
-│   ├── stats_results.txt
 │
 └── Primetrade_assignment_report.pdf     # Final summarized report
 ```
